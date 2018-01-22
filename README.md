@@ -4,3 +4,5 @@
 
 Simple encryption application written in C# for encrypting decrypting files with RSA and Rijndael (in CBC mode) algorithms. 
 Allows for user to export/import encyption and decryption keys with different parameters.
+
+Written in VS 2017
